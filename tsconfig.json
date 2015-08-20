@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES5",
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "sourceMap": true,
+    "declaration": true
+  },
+  "files": [
+    "mock-debug.ts",
+    "test/mock-debug-test.ts"
+  ]
+}

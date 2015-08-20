@@ -1,0 +1,26 @@
+{
+  "name": "mock-debug",
+  "version": "1.0.0",
+  "description": "A simple mock for Visionmedia's module 'debug'",
+  "main": "mock-debug.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Jim Lloyd <jim.lloyd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "tsd": "=0.6.3",
+    "typescript": "=1.5.3"
+  },
+  "typescript": {
+    "definition": "mock-debug.d.ts"
+  },
+  "keywords": [
+    "debug",
+    "logger",
+    "mock"
+  ]
+}
