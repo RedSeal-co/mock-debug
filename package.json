@@ -1,6 +1,6 @@
 {
   "name": "mock-debug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple mock for Visionmedia's module 'debug'",
   "main": "mock-debug.js",
   "scripts": {
